@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>dls-icon-location-filled-white</title>
+  <g id="Icons-and-Glyphs">
+    <g id="ICONS_MEMBERSHIP_dls-icon-location-filled" data-name="ICONS/MEMBERSHIP/dls-icon-location-filled">
+      <g id="_05-membership_dls-icon-location-filled" data-name="05-membership/dls-icon-location-filled">
+        <g id="dls-icon-location-filled">
+          <rect id="bounding" width="48" height="48" fill="none"/>
+          <path d="M18,0A18.16,18.16,0,0,0,0,18.27C0,27.51,14.08,45,15.68,46.9a3,3,0,0,0,4.64,0C21.92,45,36,27.51,36,18.27A18.16,18.16,0,0,0,18,0Zm0,24a6,6,0,1,1,6-6A6,6,0,0,1,18,24Z" transform="translate(6)" fill="#fff"/>
+          <circle cx="24" cy="18" r="6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
